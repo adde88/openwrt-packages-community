@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=sslsplit
-PKG_VERSION:=0.5.4
+PKG_VERSION:=0.5.5
 PKG_RELEASE:=1
 PKG_LICENSE:=BSD-2-Clause
 PKG_LICENSE_FILES:=LICENSE LICENSE.contrib LICENSE.third
@@ -16,7 +16,7 @@ PKG_LICENSE_FILES:=LICENSE LICENSE.contrib LICENSE.third
 PKG_SOURCE:=sslsplit.tar.gz
 PKG_SOURCE_URL:=https://github.com/droe/sslsplit.git
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_VERSION:=0.5.4
+PKG_SOURCE_VERSION:=0.5.5
 
 PKG_INSTALL:=1
 
